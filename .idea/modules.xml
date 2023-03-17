@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/doacao/doacao.iml" filepath="$PROJECT_DIR$/doacao/doacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trabalho_pos_impacta.iml" filepath="$PROJECT_DIR$/.idea/trabalho_pos_impacta.iml" />
     </modules>
   </component>
